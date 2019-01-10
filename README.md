@@ -1,2 +1,2 @@
-# scapper-scala
+# scrapper-scala
 Scraping web contents 
